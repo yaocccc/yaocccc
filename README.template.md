@@ -1,0 +1,59 @@
+<img src="https://img.icons8.com/dusk/100/github.png"/>
+
+# <img src="https://img.icons8.com/ios-filled/36/null/logic-data-types.png"/> "" <> = [] ? : '' * / HI WORLD;
+
+## [<img src="https://img.icons8.com/material-two-tone/22/60AEDE/cloud-link.png"/> c'blog](https://yaocc.cc) -- [<img src="https://img.icons8.com/color/25/bilibili.png"/> bilibili野生UP主](https://space.bilibili.com/303522232/)
+
+<br>
+
+![star](https://img.shields.io/github/stars/yaocccc?style=social)
+![follow](https://img.shields.io/github/followers/yaocccc?style=social)
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="#TOP">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaocccc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+      </a>
+    </td>
+    <td>
+      <a href="#TOP">
+        <img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### [<img src="https://img.icons8.com/small/20/null/console.png"/> linux/terminal 重度依赖者](https://www.bilibili.com/video/BV1Ef4y1Z7kA)
+
+<details style="cursor: pointer; text-decoration:underline; color: #F21;">
+  <summary>展示图 👈</summary>
+  
+  ![show-linux](./show-linux.gif)
+
+</details>
+
+1. dwm -- {yaocccc/dwm/star}|{yaocccc/dwm/fork} -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
+2. st  -- {yaocccc/st/star}|{yaocccc/st/fork} -- [yaocccc/st](https://github.com/yaocccc/st)
+3. 自用脚本仓库 -- {yaocccc/scripts/star}|{yaocccc/scripts/fork} -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
+4. omz(forded from oh my zsh) -- {yaocccc/omz/star}|{yaocccc/omz/fork} -- [yaocccc/omz](https://github.com/yaocccc/omz)
+5. 壁纸仓库(我二次元浓度不高的) -- {yaocccc/wallpaper/star}|{yaocccc/wallpaper/fork} -- [yaocccc/wallpaper](https://github.com/yaocccc/wallpaper)
+6. github用户页 -- {yaocccc/yaocccc/star}|{yaocccc/yaocccc/fork} -- [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc)
+
+### [<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/20/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/> nvim/vim 深度用户](https://github.com/yaocccc/nvim)
+
+<details style="cursor: pointer; text-decoration:underline; color: #F21;">
+  <summary>展示图 👈</summary>
+  
+  ![show-nvim](./show-nvim.gif)
+
+</details>
+
+相关配置和部分自己写的插件:
+
+1. 个人nvim配置 -- {yaocccc/nvim/star}|{yaocccc/nvim/fork} -- [yaocccc/nvim](https://github.com/yaocccc/nvim)
+2. 根据`{}`高亮代码块 -- {yaocccc/nvim-hlchunk/star}|{yaocccc/nvim-hlchunk/fork} -- [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk)
+3. 状态栏标签栏插件 -- {yaocccc/nvim-lines.lua/star}|{yaocccc/nvim-lines.lua/fork} -- [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua)
+4. 快速注释插件 -- {yaocccc/vim-comment/star}|{yaocccc/vim-comment/fork} -- [yaocccc/vim-comment](https://github.com/yaocccc/vim-comment)
+4. 快速操作`"" () {}`等pair的插件 -- {yaocccc/vim-surround/star}|{yaocccc/vim-surround/fork} -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
+5. 最小化在标记栏展示mark -- {yaocccc/vim-showmarks/star}|{yaocccc/vim-showmarks/fork} -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)

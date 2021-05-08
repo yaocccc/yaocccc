@@ -1,0 +1,30 @@
+name: up
+on:
+  watch:
+    types: started
+  fork:
+  workflow_dispatch:
+  repository_dispatch:
+    types: up
+  schedule:
+    - cron:  '*/30 * * * *'
+
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Up
+        run: |
+          bash update.sh
+          git status
+          remote_addr=`git remote get-url --push origin`
+          remote_addr=`echo $remote_addr|  awk -F '://' '{print $2}'`
+          remote_addr=https://${user_name}:${{ secrets.GT }}@${remote_addr}
+          echo $remote_addr
+          git config  user.name "yaocccc"
+          git config  user.email "flyforest@outlook.com"
+          git remote add action ${remote_addr}
+          git add --all
+          git commit -m "BY:GITHUB ACTION -- $(date '+%Y%m%d%H%M')"
+          git push action HEAD:master --force
