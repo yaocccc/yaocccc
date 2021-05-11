@@ -1,5 +1,3 @@
-# HELLO GAYHUB 👋
-
 <table border="0">
    <tr>
        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaocccc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true"></td>
