@@ -4,3 +4,5 @@
        <td><img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true"></td>
    </tr>
 </table>
+
+[💡nodejs后端开发/vim爱好者/linux爱好者/开源爱好者(CC'BLOG)](https:yaocc.cc)
