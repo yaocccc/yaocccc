@@ -8,7 +8,7 @@
       </a>
     </td>
     <td>
-      <a href="https://yaocc.cc">
+      <a href="">
         <img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
