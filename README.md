@@ -3,12 +3,12 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://yaocc.cc">
+      <a href="TOP">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaocccc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
     <td>
-      <a href="">
+      <a href="TOP">
         <img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
