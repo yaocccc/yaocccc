@@ -4,14 +4,18 @@
   <tr>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaocccc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaocccc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yaocccc&count_private=true&show_icons=true&theme=buefy&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
   </tr>
+  <tr>
+      <a href="#TOP">
+        <img src="https://activity-graph.herokuapp.com/graph?username=yaocccc&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+      </a>
+  </tr>
 </table>
-
