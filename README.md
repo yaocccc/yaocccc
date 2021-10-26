@@ -14,12 +14,3 @@
     </td>
   </tr>
 </table>
-<table border="0">
-  <tr>
-    <td>
-      <a href="#TOP">
-        <img src="https://activity-graph.herokuapp.com/graph?username=yaocccc&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
-      </a>
-    </td>
-  </tr>
-</table>
