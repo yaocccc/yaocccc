@@ -7,7 +7,7 @@ on:
   repository_dispatch:
     types: up
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '34,36,37 * * * *'
 
 jobs:
   up:
@@ -26,5 +26,5 @@ jobs:
           git config  user.email "flyforest@outlook.com"
           git remote add action ${remote_addr}
           git add --all
-          git commit -m "BY:GITHUB ACTION -- $(date '+%Y%m%d%H%M')"
+          git commit -m "BY:GITHUB ACTION -- $(date '+%Y/%m/%d %H:%M')"
           git push action HEAD:master --force
