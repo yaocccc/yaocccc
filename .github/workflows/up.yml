@@ -1,13 +1,8 @@
 name: up
 on:
-  watch:
-    types: started
-  fork:
   workflow_dispatch:
   repository_dispatch:
     types: up
-  schedule:
-    - cron:  '34,36,37 * * * *'
 
 jobs:
   up:

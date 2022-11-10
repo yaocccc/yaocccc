@@ -1,0 +1,17 @@
+name: up
+on:
+  watch:
+    types: started
+  fork:
+
+jobs:
+  call:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Call
+        run: |
+          curl -X POST https://api.github.com/repos/yaocccc/yaocccc/dispatches \
+              -H "Accept: application/vnd.github.everest-preview+json" \
+              -H "Authorization: token ${{ secrets.GT }}" \
+              --data '{"event_type": "up"}'
