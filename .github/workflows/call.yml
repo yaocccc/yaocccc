@@ -1,4 +1,4 @@
-name: up
+name: call
 on:
   watch:
     types: started
