@@ -1,13 +1,8 @@
 <img src="https://img.icons8.com/dusk/100/github.png"/>
 
-# <img src="https://img.icons8.com/ios-filled/36/null/logic-data-types.png"/> "" <> = [] ? : '' * / HI WORLD;
+# [<img src="https://img.icons8.com/ios-filled/36/null/logic-data-types.png"/> "" <> = [] ? : '' * / HI WORLD;](#TOP)
 
-## [<img src="https://img.icons8.com/material-two-tone/22/60AEDE/cloud-link.png"/> c'blog](https://yaocc.cc) -- [<img src="https://img.icons8.com/color/25/bilibili.png"/> bilibili野生UP主](https://space.bilibili.com/303522232/)
-
-<br>
-
-![star](https://img.shields.io/github/stars/yaocccc?style=social)
-![follow](https://img.shields.io/github/followers/yaocccc?style=social)
+# [<img src="https://img.icons8.com/material-two-tone/24/60AEDE/cloud-link.png"/> c'blog](https://yaocc.cc) -- [<img src="https://img.icons8.com/color/28/bilibili.png"/> bilibili野生UP主](https://space.bilibili.com/303522232/)
 
 <table border="0">
   <tr>
@@ -24,7 +19,7 @@
   </tr>
 </table>
 
-### [<img src="https://img.icons8.com/small/20/null/console.png"/> linux/terminal 重度依赖者](https://www.bilibili.com/video/BV1Ef4y1Z7kA)
+# [<img src="https://img.icons8.com/small/24/null/console.png"/> linux/terminal 重度依赖者](https://www.bilibili.com/video/BV1Ef4y1Z7kA)
 
 <details style="cursor: pointer; text-decoration:underline; color: #F21;">
   <summary>展示图 👈</summary>
@@ -40,7 +35,7 @@
 5. 壁纸仓库(我二次元浓度不高的) -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>5|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>5 -- [yaocccc/wallpaper](https://github.com/yaocccc/wallpaper)
 6. github用户页 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>9|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>3 -- [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc)
 
-### [<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/20/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/> nvim/vim 深度用户](https://github.com/yaocccc/nvim)
+# [<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/> nvim/vim 深度用户](https://github.com/yaocccc/nvim)
 
 <details style="cursor: pointer; text-decoration:underline; color: #F21;">
   <summary>展示图 👈</summary>
