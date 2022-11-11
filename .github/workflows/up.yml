@@ -1,8 +1,15 @@
 name: up
 on:
+  # 手动调用
   workflow_dispatch:
+
+  # api远程调用
   repository_dispatch:
     types: up
+
+  # 定时调用(每小时)
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   up:
