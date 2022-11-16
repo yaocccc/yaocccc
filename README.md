@@ -52,3 +52,14 @@
 4. 快速注释插件 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>2|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>2 -- [yaocccc/vim-comment](https://github.com/yaocccc/vim-comment)
 4. 快速操作`"" () {}`等pair的插件 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>7|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
 5. 最小化在标记栏展示mark -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>1|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)
+
+<details style="cursor: pointer; text-decoration:underline; color: #04D;">
+  <summary>PS: 关于本仓库自动更新star、fork数量的实现</summary>
+
+  ---
+
+  主要见以下两个workflow文件 具体见注释  
+  更新readme [./github/workflows/up.yml](https://github.com/yaocccc/yaocccc/blob/master/.github/workflows/up.yml)  
+  调用更新动作 [./github/workflows/call.yml](https://github.com/yaocccc/yaocccc/blob/master/.github/workflows/call.yml)  
+
+</details>
