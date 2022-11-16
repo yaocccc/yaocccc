@@ -1,3 +1,7 @@
+# 更新本仓库readme的action
+# 主要逻辑是可手动调用、api调用、定时调用
+# 调用后执行仓库下的update.sh 并使用 secrets.GT (对应值为申请的github token) 完成commit并推送
+
 name: up
 on:
   # 手动调用

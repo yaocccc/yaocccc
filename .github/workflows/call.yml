@@ -1,3 +1,9 @@
+# 用于调用本仓库更新readme的github action
+# 使用http请求调用 主要需要注意要在github申请github token
+# 并在仓库secrets中添加GT(github token)这个键 值为申请的github token
+# 该github action文件可放置在任意你需要关注 star、fork 事件的仓库中
+# 当发生以上事件时 触发调用该action
+
 name: call
 on:
   watch:
