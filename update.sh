@@ -25,4 +25,5 @@ _stat yaocccc/nvim-lines.lua
 _stat yaocccc/vim-comment
 _stat yaocccc/vim-surround
 _stat yaocccc/vim-showmarks
+_stat yaocccc/vim-echo
 mv _README.md README.md
