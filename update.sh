@@ -18,6 +18,7 @@ _stat yaocccc/st
 _stat yaocccc/scripts
 _stat yaocccc/omz
 _stat yaocccc/wallpaper
+_stat yaocccc/rime
 _stat yaocccc/yaocccc
 _stat yaocccc/nvim
 _stat yaocccc/nvim-hlchunk
