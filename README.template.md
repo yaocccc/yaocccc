@@ -31,7 +31,7 @@
 1. dwm -- {yaocccc/dwm/star}|{yaocccc/dwm/fork} -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
 2. st  -- {yaocccc/st/star}|{yaocccc/st/fork} -- [yaocccc/st](https://github.com/yaocccc/st)
 3. 自用脚本仓库 -- {yaocccc/scripts/star}|{yaocccc/scripts/fork} -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
-4. omz(forded from oh my zsh) -- {yaocccc/omz/star}|{yaocccc/omz/fork} -- [yaocccc/omz](https://github.com/yaocccc/omz)
+4. omz(forked from oh my zsh) -- {yaocccc/omz/star}|{yaocccc/omz/fork} -- [yaocccc/omz](https://github.com/yaocccc/omz)
 5. 基于小鹤双拼+二笔辅助码实现的rime方案 -- {yaocccc/rime/star}|{yaocccc/rime/fork} -- [yaocccc/rime](https://github.com/yaocccc/rime)
 6. 壁纸仓库(我二次元浓度不高的) -- {yaocccc/wallpaper/star}|{yaocccc/wallpaper/fork} -- [yaocccc/wallpaper](https://github.com/yaocccc/wallpaper)
 7. github用户页 -- {yaocccc/yaocccc/star}|{yaocccc/yaocccc/fork} -- [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc)
