@@ -28,7 +28,7 @@
 
 </details>
 
-1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>68|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>19 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
+1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>69|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>19 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
 2. st  -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>7|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>4 -- [yaocccc/st](https://github.com/yaocccc/st)
 3. 自用脚本仓库 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>14|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>7 -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
 4. omz(forked from oh my zsh) -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>16|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/omz](https://github.com/yaocccc/omz)
