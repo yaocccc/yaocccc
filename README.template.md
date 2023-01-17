@@ -1,5 +1,3 @@
-<img src="https://img.icons8.com/dusk/100/github.png"/>
-
 # [<img src="https://img.icons8.com/ios-filled/36/null/logic-data-types.png"/> "" <> = [] ? : '' * / HI WORLD;](#TOP)
 
 # [<img src="https://img.icons8.com/material-two-tone/24/60AEDE/cloud-link.png"/> c'blog](https://yaocc.cc) -- [<img src="https://img.icons8.com/color/28/bilibili.png"/> bilibili野生UP主](https://space.bilibili.com/303522232/)
