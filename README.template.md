@@ -67,7 +67,7 @@
 ## Support
 
 <a href="https://www.buymeacoffee.com/yaocccc" target="_blank">
-  <img src="https://github.com/yaocccc/yaocccc/raw/master/qr.png)">
+  <img src="https://github.com/yaocccc/yaocccc/raw/master/qr.png">
 </a>
 
 <br>
