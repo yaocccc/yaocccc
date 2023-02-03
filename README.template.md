@@ -67,11 +67,5 @@
 ## Support
 
 <a href="https://www.buymeacoffee.com/yaocccc" target="_blank">
-  <img src="./bmc_qr.png" alt="Buy Me A Coffee" style="height: 200px !important;width: 200px !important;" >
-</a>
-
-<br>
-
-<a href="https://www.buymeacoffee.com/yaocccc" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" >
 </a>
