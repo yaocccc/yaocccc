@@ -10,11 +10,11 @@ setlocal fdn=20
 setlocal fen
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 68 - ((22 * winheight(0) + 13) / 26)
+let s:l = 74 - ((22 * winheight(0) + 13) / 26)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 68
+keepjumps 74
 normal! 0
 let &g:so = s:so_save | let &g:siso = s:siso_save
 set hlsearch
