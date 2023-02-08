@@ -28,7 +28,7 @@
 
 1. dwm -- {yaocccc/dwm/star}|{yaocccc/dwm/fork} -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
 2. st  -- {yaocccc/st/star}|{yaocccc/st/fork} -- [yaocccc/st](https://github.com/yaocccc/st)
-3. tabbed st多tab支持 -- {yaocccc/tabbed/star}|{yaocccc/tabbed/fork} -- [yaocccc/st](https://github.com/yaocccc/tabbed)
+3. tabbed st多tab支持 -- {yaocccc/tabbed/star}|{yaocccc/tabbed/fork} -- [yaocccc/tabbed](https://github.com/yaocccc/tabbed)
 4. 自用脚本仓库 -- {yaocccc/scripts/star}|{yaocccc/scripts/fork} -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
 5. omz(forked from oh my zsh) -- {yaocccc/omz/star}|{yaocccc/omz/fork} -- [yaocccc/omz](https://github.com/yaocccc/omz)
 6. 基于小鹤双拼+二笔辅助码实现的rime方案 -- {yaocccc/rime/star}|{yaocccc/rime/fork} -- [yaocccc/rime](https://github.com/yaocccc/rime)
