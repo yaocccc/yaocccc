@@ -26,7 +26,7 @@
 
 </details>
 
-1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>140|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>36 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
+1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>140|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>35 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
 2. st  -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>12|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>7 -- [yaocccc/st](https://github.com/yaocccc/st)
 3. tabbed st多tab支持 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>1|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>0 -- [yaocccc/tabbed](https://github.com/yaocccc/tabbed)
 4. 自用脚本仓库 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>17|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>13 -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
