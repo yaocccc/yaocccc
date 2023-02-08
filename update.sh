@@ -15,6 +15,7 @@ _stat() {
 
 _stat yaocccc/dwm
 _stat yaocccc/st
+_stat yaocccc/tabbed
 _stat yaocccc/scripts
 _stat yaocccc/omz
 _stat yaocccc/wallpaper
