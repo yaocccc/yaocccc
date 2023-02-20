@@ -28,4 +28,5 @@ _stat yaocccc/vim-comment
 _stat yaocccc/vim-surround
 _stat yaocccc/vim-showmarks
 _stat yaocccc/vim-echo
+_stat yaocccc/nvim-foldsign
 mv _README.md README.md

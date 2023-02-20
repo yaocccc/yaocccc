@@ -53,6 +53,7 @@
 4. 快速操作`"" () {}`等pair的插件 -- {yaocccc/vim-surround/star}|{yaocccc/vim-surround/fork} -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
 5. 最小化在标记栏展示mark -- {yaocccc/vim-showmarks/star}|{yaocccc/vim-showmarks/fork} -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)
 6. 快速echo、print、console.log -- {yaocccc/vim-echo/star}|{yaocccc/vim-echo/fork} -- [yaocccc/vim-echo](https://github.com/yaocccc/vim-echo)
+7. signcolumn显示折叠信息 -- {yaocccc/nvim-foldsign/star}|{yaocccc/nvim-foldsign/fork} -- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign)
 
 <details style="cursor: pointer; text-decoration:underline; color: #04D;">
   <summary>PS: 关于本仓库自动更新star、fork数量的实现</summary>
