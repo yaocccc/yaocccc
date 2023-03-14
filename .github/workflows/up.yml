@@ -7,10 +7,6 @@ on:
   # 手动调用
   workflow_dispatch:
 
-  # api远程调用
-  repository_dispatch:
-    types: up
-
   # 定时调用(每小时)
   schedule:
     - cron: '0 * * * *'
@@ -20,9 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Up
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GT }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./3d-profile.json
+      - run: mv ./profile-3d-contrib/* ./ && rmdir profile-3d-contrib
+      - name: Run update script
         run: |
           bash update.sh
+      - name: Commit & Push
+        run: |
           git status
           git diff
           if [ "$(git diff)" ]; then
