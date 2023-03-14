@@ -2,13 +2,9 @@
 
 # [<img src="https://img.icons8.com/material-two-tone/24/60AEDE/cloud-link.png"/> c'blog](https://yaocc.cc) -- [<img src="https://img.icons8.com/color/28/bilibili.png"/> bilibili野生UP主](https://space.bilibili.com/303522232/)
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/yaocccc/yaocccc/master/profile-3d.svg" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/yaocccc/yaocccc/master/profile-3d.svg" />
+</p>
 
 # [<img src="https://img.icons8.com/small/24/null/console.png"/> linux/terminal 重度依赖者](https://www.bilibili.com/video/BV1Ef4y1Z7kA)
 
