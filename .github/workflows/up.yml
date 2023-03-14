@@ -28,17 +28,14 @@ jobs:
           bash update.sh
       - name: Commit & Push
         run: |
+          remote_addr=`git remote get-url --push origin`
+          remote_addr=`echo $remote_addr|  awk -F '://' '{print $2}'`
+          remote_addr=https://${user_name}:${{ secrets.GT }}@${remote_addr}
           git status
           git diff
-          if [ "$(git diff)" ]; then
-            remote_addr=`git remote get-url --push origin`
-            remote_addr=`echo $remote_addr|  awk -F '://' '{print $2}'`
-            remote_addr=https://${user_name}:${{ secrets.GT }}@${remote_addr}
-            echo $remote_addr
-            git config  user.name "yaocccc"
-            git config  user.email "flyforest@outlook.com"
-            git remote add action ${remote_addr}
-            git add --all
-            git commit -m "BY:GITHUB ACTION -- $(date '+%Y/%m/%d %H:%M')"
-            git push action HEAD:master --force
-          fi
+          git config  user.name "yaocccc"
+          git config  user.email "flyforest@outlook.com"
+          git remote add action ${remote_addr}
+          git add --all
+          git commit -m "BY:GITHUB ACTION -- $(date '+%Y/%m/%d %H:%M')"
+          git push action HEAD:master --force
