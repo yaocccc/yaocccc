@@ -7,9 +7,9 @@ on:
   # 手动调用
   workflow_dispatch:
 
-  # 定时调用(每天)
+  # 定时调用(每天三次)
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 */8 * * *'
 
 jobs:
   up:
