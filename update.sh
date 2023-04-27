@@ -23,6 +23,7 @@ _stat yaocccc/rime
 _stat yaocccc/yaocccc
 _stat yaocccc/nvim
 _stat yaocccc/nvim-hlchunk
+_stat yaocccc/nvim-hl-mdcodeblock.lua
 _stat yaocccc/nvim-lines.lua
 _stat yaocccc/vim-comment
 _stat yaocccc/vim-surround

@@ -37,12 +37,13 @@
 
 1. 个人nvim配置 -- {yaocccc/nvim/star}|{yaocccc/nvim/fork} -- [yaocccc/nvim](https://github.com/yaocccc/nvim)
 2. 根据`{}`高亮代码块 -- {yaocccc/nvim-hlchunk/star}|{yaocccc/nvim-hlchunk/fork} -- [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk)
-3. 状态栏标签栏插件 -- {yaocccc/nvim-lines.lua/star}|{yaocccc/nvim-lines.lua/fork} -- [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua)
-4. 快速注释插件 -- {yaocccc/vim-comment/star}|{yaocccc/vim-comment/fork} -- [yaocccc/vim-comment](https://github.com/yaocccc/vim-comment)
-5. 快速操作`"" () {}`等pair的插件 -- {yaocccc/vim-surround/star}|{yaocccc/vim-surround/fork} -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
-6. 最小化在标记栏展示mark -- {yaocccc/vim-showmarks/star}|{yaocccc/vim-showmarks/fork} -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)
-7. 快速echo、print、console.log -- {yaocccc/vim-echo/star}|{yaocccc/vim-echo/fork} -- [yaocccc/vim-echo](https://github.com/yaocccc/vim-echo)
-8. signcolumn显示折叠信息 -- {yaocccc/nvim-foldsign/star}|{yaocccc/nvim-foldsign/fork} -- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign)
+3. 高亮markdown代码块 -- {yaocccc/nvim-hl-mdcodeblock.lua/star}|{yaocccc/nvim-hl-mdcodeblock.lua/fork} -- [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua)
+4. 状态栏标签栏插件 -- {yaocccc/nvim-lines.lua/star}|{yaocccc/nvim-lines.lua/fork} -- [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua)
+5. 快速注释插件 -- {yaocccc/vim-comment/star}|{yaocccc/vim-comment/fork} -- [yaocccc/vim-comment](https://github.com/yaocccc/vim-comment)
+6. 快速操作`"" () {}`等pair的插件 -- {yaocccc/vim-surround/star}|{yaocccc/vim-surround/fork} -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
+7. 最小化在标记栏展示mark -- {yaocccc/vim-showmarks/star}|{yaocccc/vim-showmarks/fork} -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)
+8. 快速echo、print、console.log -- {yaocccc/vim-echo/star}|{yaocccc/vim-echo/fork} -- [yaocccc/vim-echo](https://github.com/yaocccc/vim-echo)
+9. signcolumn显示折叠信息 -- {yaocccc/nvim-foldsign/star}|{yaocccc/nvim-foldsign/fork} -- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign)
 
 <details style="cursor: pointer; text-decoration:underline; color: #04D;">
   <summary>PS: 关于本仓库自动更新star、fork数量的实现</summary>
