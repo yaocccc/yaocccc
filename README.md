@@ -15,7 +15,7 @@
 
 </details>
 
-1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>241|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>118 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
+1. dwm -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>241|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>119 -- [yaocccc/dwm](https://github.com/yaocccc/dwm)
 2. st  -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>26|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>30 -- [yaocccc/st](https://github.com/yaocccc/st)
 3. tabbed st多tab支持 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>7|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>7 -- [yaocccc/tabbed](https://github.com/yaocccc/tabbed)
 4. 自用脚本仓库 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>24|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>23 -- [yaocccc/scripts](https://github.com/yaocccc/scripts)
@@ -43,7 +43,7 @@
 6. 快速操作`"" () {}`等pair的插件 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>12|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>2 -- [yaocccc/vim-surround](https://github.com/yaocccc/vim-surround)
 7. 最小化在标记栏展示mark -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>3|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/vim-showmarks](https://github.com/yaocccc/vim-showmarks)
 8. 快速echo、print、console.log -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>6|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/vim-echo](https://github.com/yaocccc/vim-echo)
-9. signcolumn显示折叠信息 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>32|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>2 -- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign)
+9. signcolumn显示折叠信息 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>31|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>2 -- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign)
 
 <details style="cursor: pointer; text-decoration:underline; color: #04D;">
   <summary>PS: 关于本仓库自动更新star、fork数量的实现</summary>
