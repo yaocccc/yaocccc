@@ -55,9 +55,3 @@
   调用更新动作 [./github/workflows/call.yml](https://github.com/yaocccc/yaocccc/blob/master/.github/workflows/call.yml)  
 
 </details>
-
-## Support: buy me a coffee
-
-<a href="#TOP" target="_blank">
-  <img src="https://github.com/yaocccc/yaocccc/raw/master/qr.png">
-</a>
