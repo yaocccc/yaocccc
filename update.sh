@@ -22,6 +22,7 @@ _stat yaocccc/wallpaper
 _stat yaocccc/rime
 _stat yaocccc/yaocccc
 _stat yaocccc/nvim
+_stat yaocccc/visual-multi.nvim
 _stat yaocccc/nvim-hlchunk
 _stat yaocccc/nvim-hl-mdcodeblock.lua
 _stat yaocccc/nvim-lines.lua
