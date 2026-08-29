@@ -35,7 +35,7 @@
 
 相关配置和部分自己写的插件:
 
-1. 个人nvim配置 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>199|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>37 -- [yaocccc/nvim](https://github.com/yaocccc/nvim)
+1. 个人nvim配置 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>200|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>37 -- [yaocccc/nvim](https://github.com/yaocccc/nvim)
 2. 原生Lua实现的轻量多光标插件 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>12|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>1 -- [yaocccc/visual-multi.nvim](https://github.com/yaocccc/visual-multi.nvim)
 3. 根据`{}`高亮代码块 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>54|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>0 -- [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk)
 4. 高亮markdown代码块 -- <img src="https://img.icons8.com/material-outlined/14/christmas-star.png"/>36|<img src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/13/null/external-code-development-royyan-wijaya-detailed-outline-royyan-wijaya-4.png"/>2 -- [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua)
